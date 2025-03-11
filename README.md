@@ -1,3 +1,7 @@
+This repository has build artifacts for CustomNameplates.
+
+Go to https://github.com/JosTheDude/Custom-Nameplates/actions and click on the latest run, then download the `artifact`
+
 # Custom-Nameplates
 
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/Xiao-MoMi/Custom-Nameplates)
